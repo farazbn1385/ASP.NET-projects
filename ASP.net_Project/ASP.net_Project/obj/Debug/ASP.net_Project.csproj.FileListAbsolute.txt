@@ -1,0 +1,7 @@
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\bin\Debug\ASP.net_Project.exe.config
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\bin\Debug\ASP.net_Project.exe
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\bin\Debug\ASP.net_Project.pdb
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\obj\Debug\ASP.net_Project.csproj.AssemblyReference.cache
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\obj\Debug\ASP.net_Project.csproj.CoreCompileInputs.cache
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\obj\Debug\ASP.net_Project.exe
+C:\Users\Mehrdad\source\repos\ASP.net_Project\ASP.net_Project\obj\Debug\ASP.net_Project.pdb
